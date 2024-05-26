@@ -1,0 +1,14 @@
+# Build
+target
+
+# Environment
+.env
+
+# IDE
+.idea
+.vscode
+
+# Mvn
+.mvn
+mvnw
+mvnw.cmd
