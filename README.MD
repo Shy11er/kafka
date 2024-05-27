@@ -42,7 +42,7 @@ $KAFKA_HOME/bin/kafka-server-start.sh $KAFKA_HOME/config/server.properties
 ### Запуск Spring Boot приложения
 
 ```bash
-mvn clean sping-boot:run
+mvn clean spring-boot:run
 ```
 
 ## Использование
